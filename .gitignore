@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+.venv/
+fer_streamlit_app/venv/
+*.log
+outputs/cache/
+outputs/
+data/
+dataset/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.pth
+*.pt
+*.ckpt
+fer_streamlit_app/checkpoints/*.pth
+fer_streamlit_app/checkpoints/*.pt
+fer_streamlit_app/checkpoints/*.ckpt
+
+# Local duplicate or optional notebooks kept out of the GitHub-ready set
+notebooks/final_group_project_aramesh8_rohanani.ipynb
+notebooks/clip_model.ipynb
+notebooks/clip_dinov2_only.ipynb
+
+# Local process notes not needed for the final submission repo
+docs/blueprints/
+docs/execution_logs/
+docs/project_requirements/

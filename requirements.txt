@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+opencv-python-headless
+open_clip_torch
+streamlit
+streamlit-webrtc
+av
+kagglehub
+tqdm

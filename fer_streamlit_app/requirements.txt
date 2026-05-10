@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+open_clip_torch
+opencv-python-headless
+pillow
+numpy
+pandas
+matplotlib
+streamlit-webrtc
+av
+tornado
